@@ -1,0 +1,149 @@
+body
+{
+overflow-x: hidden;
+margin:0px;
+padding:0px;
+
+}
+.stylish
+{
+    background-color: black;
+}
+#logMe
+{
+   
+    bottom:0;
+    padding:0px;
+    margin:0px;
+    float:left;
+    margin-top: 30%!important;
+}
+#logoutMe
+{
+    
+    
+    
+    bottom:0;
+    padding:0px;
+    float:left;
+    margin-top: 15%!important;
+
+}
+#doc
+{
+   
+        text-decoration: none;
+        list-style: none;
+        padding:0;
+   
+}
+
+#banner
+{
+    font-weight: bold;
+    font-size:60;
+    color:white;
+}
+.row{
+    padding: 0!important;
+    margin:0!important;
+}
+li{
+    padding: 0!important;
+    margin:0!important;
+    border:0px!important;
+}
+input{
+    padding: 0!important;
+    margin:0!important;
+    margin-bottom: 5px!important;
+    margin-top: 5px!important;
+  
+}
+.dataRow{
+    padding: 0!important;
+    margin:0!important;
+}
+ul
+{
+    margin:0!important;
+    padding: 0!important;
+    text-decoration: none;
+    list-style: none;
+    padding:0;
+    padding: 0;
+}
+ol
+{
+    text-decoration: none;
+    list-style: none;  
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.centerElement
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btn {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    outline: none;
+    border: none;
+    border-style: outset;
+    border-radius: 0 !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+
+}
+.btn:active {
+  border-style: outset;
+  border: none;
+}
+  
+#banner
+{
+    text-align: center;
+}
+
+
+
+  .stylish
+  {
+      display:none;
+  }
+  .dataRow{
+      position: relative;
+  }
+#editButton{
+     position: absolute;
+     right:20;
+     height: 30px;
+     font-size: 0;
+    
+ }
+#deleteButton{
+    position: absolute;
+     right:-10;
+     height:30px;
+     font-size: 0;
+    
+}
+#appForm
+{
+    margin-top:60px;
+}
+.noMorePadding
+{
+    padding:0px!important;
+ 
+}
